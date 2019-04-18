@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sebastian
+Build-Jdk: 12
+Implementation-Title: mtgstatstracker-addon
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.riimusolutions
+Created-By: Maven Integration for Eclipse
+Vaadin-Package-Version: 1
+Vaadin-Widgetsets: com.riimusolutions.mtgstatstracker.MSTWidgetset
+

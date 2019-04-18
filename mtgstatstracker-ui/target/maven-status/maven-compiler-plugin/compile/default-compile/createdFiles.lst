@@ -1,0 +1,10 @@
+com/riimusolutions/mtgstatstracker/views/login/MSTLoginForm.class
+com/riimusolutions/mtgstatstracker/MSTUI.class
+com/riimusolutions/mtgstatstracker/MSTUI$MSTUIServlet.class
+com/riimusolutions/mtgstatstracker/views/login/LoginPresenter.class
+com/riimusolutions/mtgstatstracker/views/login/LoginViewImpl.class
+com/riimusolutions/mtgstatstracker/mvp/Presenter.class
+com/riimusolutions/mtgstatstracker/mvp/IView.class
+com/riimusolutions/mtgstatstracker/views/login/ILoginView.class
+com/riimusolutions/mtgstatstracker/Person.class
+com/riimusolutions/mtgstatstracker/mvp/View.class
